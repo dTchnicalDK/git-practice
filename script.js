@@ -14,9 +14,8 @@ const feature2 = () => {
 //stash attempting
 //returened after fix 1 on fix branch
 
-//fix 2 added: -------
-const fix2 = null;
-
 const conflict = null;
 
-console.log("fix 3 after confilict resolve: fix branch");
+const feature3Added = () => {
+  console.log("third feature added from feature branch");
+};
