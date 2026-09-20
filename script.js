@@ -13,3 +13,6 @@ const feature2 = () => {
 };
 //stash attempting
 //returened after fix 1 on fix branch
+
+//fix 2 added: -------
+const fix2 = null;
