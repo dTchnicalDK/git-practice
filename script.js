@@ -16,3 +16,12 @@ const feature2 = () => {
 
 //fix 2 added: -------
 const fix2 = null;
+
+//feat2: from feature branch
+const feature2 = () => {
+  console.log("hi i am feature two");
+};
+//stash attempting
+//returened after fix 1 on fix branch
+
+const conflict = null;
