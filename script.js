@@ -18,3 +18,5 @@ const feature2 = () => {
 const fix2 = null;
 
 const conflict = null;
+
+console.log("fix 3 after confilict resolve: fix branch");
