@@ -13,3 +13,5 @@ const feature2 = () => {
 };
 //stash attempting
 //returened after fix 1 on fix branch
+
+const conflict = null;
